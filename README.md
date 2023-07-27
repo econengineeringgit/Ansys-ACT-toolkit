@@ -1,3 +1,5 @@
+![econ](assets/econ_banner_small.jpg)
+
 # Ansys ACT toolkit
 
 Useful tools and scripts for Ansys ACT
